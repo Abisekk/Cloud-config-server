@@ -5,7 +5,7 @@ management:
     shutdown:
       enabled: true
 user:
-  firstName: abisekk      
+  firstName: abisekk shanmugam   
   endpoints:
     web:
       exposure:
