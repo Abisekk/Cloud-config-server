@@ -4,7 +4,8 @@ management:
       show-details: always
     shutdown:
       enabled: true
-      
+user:
+  firstName: abisekk      
   endpoints:
     web:
       exposure:
